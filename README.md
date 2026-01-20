@@ -61,10 +61,11 @@ and improving through consistent, intentional work.
 
 <a href="https://open.spotify.com/user/31n23wbprs6s2yhv4abggycikwme">
   <img
-    src="https://spotify-github-profile.vercel.app/api/view?uid=31n23wbprs6s2yhv4abggycikwme&cover_image=true&theme=default&show_offline=false"
-    alt="Spotify Now Playing"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=31n23wbprs6s2yhv4abggycikwme"
+    alt="Spotify"
   />
 </a>
+
 
 ---
 
