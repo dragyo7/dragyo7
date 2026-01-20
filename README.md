@@ -1,20 +1,27 @@
 <!-- ================================================= -->
 <!--  GitHub Profile README — dragyo7                  -->
-<!--  Style: Material You • Auto Dark / Light          -->
+<!--  Style: Material You • Clean • Professional       -->
 <!-- ================================================= -->
 
-<!-- ===== Pixelated Banner (Auto Dark / Light) ===== -->
+<!-- ================================================= -->
+<!--  🔳 BANNER SPACE (Animated / Pixelated GIF)       -->
+<!--  When ready, replace BANNER_URL_HERE with:        -->
+<!--  https://raw.githubusercontent.com/dragyo7/dragyo7/main/assets/banner1-ezgif.com-optimize.gif -->
+<!-- ================================================= -->
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/dragyo7/assets/main/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/dragyo7/assets/main/banner-light.svg">
-    <img src="https://raw.githubusercontent.com/dragyo7/assets/main/banner-light.svg"
-         alt="Pixelated Banner"
-         width="100%" />
-  </picture>
+  <!--
+  <img
+    src="BANNER_URL_HERE"
+    alt="Animated Banner"
+    width="100%"
+  />
+  -->
 </p>
+
+<!-- ================================================= -->
+<!--  HEADER                                           -->
+<!-- ================================================= -->
 
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" />, I'm dragyo7!
 
@@ -22,7 +29,16 @@
 CS Student • Builder • Systems & Web Learner
 </p>
 
+<p>
+I focus on understanding fundamentals, building clean solutions,<br>
+and improving through consistent, intentional work.
+</p>
+
 ---
+
+<!-- ================================================= -->
+<!--  SKILLS                                           -->
+<!-- ================================================= -->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist.png" width="25" /> Skills
 
@@ -37,20 +53,38 @@ CS Student • Builder • Systems & Web Learner
 
 ---
 
+<!-- ================================================= -->
+<!--  SPOTIFY                                          -->
+<!-- ================================================= -->
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="25" /> Vibing to
 
 <a href="https://open.spotify.com/user/31n23wbprs6s2yhv4abggycikwme">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://spotify-github-profile.vercel.app/api/view?uid=31n23wbprs6s2yhv4abggycikwme&cover_image=true&theme=default&background_color=0d1117">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://spotify-github-profile.vercel.app/api/view?uid=31n23wbprs6s2yhv4abggycikwme&cover_image=true&theme=default&background_color=ffffff">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31n23wbprs6s2yhv4abggycikwme&cover_image=true"
-         alt="Spotify Now Playing" />
-  </picture>
+  <img
+    src="https://spotify-github-profile.vercel.app/api/view?uid=31n23wbprs6s2yhv4abggycikwme&cover_image=true&theme=default&show_offline=false"
+    alt="Spotify Now Playing"
+  />
 </a>
 
 ---
+
+<!-- ================================================= -->
+<!--  PERFORMANCE / SKILLS OBSERVED                    -->
+<!-- ================================================= -->
+
+### 🚀 Performance Observed / Skills Attained
+
+- Writing readable, maintainable code  
+- Breaking problems into logical components  
+- Using Git intentionally (branches, commits, history)  
+- Documenting learnings and mistakes  
+- Improving consistency over time  
+
+---
+
+<!-- ================================================= -->
+<!--  SOCIALS                                          -->
+<!-- ================================================= -->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="25" /> Socials
 
@@ -68,32 +102,27 @@ CS Student • Builder • Systems & Web Learner
 
 ---
 
+<!-- ================================================= -->
+<!--  STATS                                           -->
+<!-- ================================================= -->
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Statistics
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=dragyo7&show_icons=true&hide_border=true&theme=github_dark&border_radius=30">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=dragyo7&show_icons=true&hide_border=true&theme=default&border_radius=30">
-    <img src="https://github-readme-stats.vercel.app/api?username=dragyo7&show_icons=true&hide_border=true"
-         alt="GitHub Stats">
-  </picture>
-</p>
+![dragyo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragyo7&show_icons=true&hide_border=true&border_radius=30)
 
 ---
 
-### 🐍 Contribution Graph
+<!-- ================================================= -->
+<!--  CONTRIBUTION SNAKE                               -->
+<!-- ================================================= -->
+
+### 🐍 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/dragyo7/dragyo7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/dragyo7/dragyo7/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/dragyo7/dragyo7/output/github-contribution-grid-snake.svg"
-         alt="Contribution Snake">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/dragyo7/dragyo7/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+  />
 </p>
 
 ---
