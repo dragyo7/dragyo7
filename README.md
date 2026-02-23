@@ -119,9 +119,9 @@ and improving through consistent, intentional work.
 ### 🎮 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dragyo7/dragyo7/output/space.svg" />
+  <img src="https://raw.githubusercontent.com/dragyo7/dragyo7/output/github-contribution-grid-snake.svg" />
 </p>
----
+
 
 <p align="center">
   <sub>Building quietly. Improving daily.</sub>
