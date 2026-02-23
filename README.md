@@ -116,7 +116,11 @@ and improving through consistent, intentional work.
 <!-- ================================================= -->
 <!--  CONTRIBUTION                                -->
 <!-- ================================================= -->
+### 🎮 Contribution Activity
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dragyo7/dragyo7/output/space.svg" />
+</p>
 ---
 
 <p align="center">
